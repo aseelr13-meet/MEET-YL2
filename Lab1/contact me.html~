@@ -1,0 +1,19 @@
+
+
+
+<form action="" method=" GET">
+   
+your name : <input type="text" name="full name " value=""> 
+<br>
+ 
+age : <input type="text" name="how old are you ?" value=""> <br>
+
+school : <input type="text" name="choose a school" value=""> <br>
+
+email : <input type=”text” name="write your email " value=""> <br>
+
+other info : <textarea name="you think it is IMPORTANT "></textarea>  <br>
+
+  <input type="submit">
+</form>
+
